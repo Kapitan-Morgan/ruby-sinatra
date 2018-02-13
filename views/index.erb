@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset='UTF-8' /> 
+    <title>My Movies</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1>My Movies</h1> 
+    <ul>
+      <li>movies</li> 
+      <li>go</li> 
+      <li><%= Time.now %></li>
+      <li><%= @movie.title %></li>
+    </ul>
+    <a href="/movies/new">Add New Movie</a>
+    <% @movie.parse.each do |line| %>
+    <div>
+    
+    <p><% line[:id] %></p>
+    <p><%= line[:title]%></p>
+    <p><%= line[:tags].join(', ') %></p>
+    <p><%= line[:dates][0].strftime "%Y-%m-%d %H:%M:%S"%></p>
+    <p><%= line[:description] %></p>
+    <br>
+    
+    <% end %>
+    </div>
+    </body>
+</html>
