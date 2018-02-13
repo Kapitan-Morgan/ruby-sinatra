@@ -14,14 +14,15 @@
       <li><%= @movie.title %></li>
     </ul>
     <a href="/movies/new">Add New Movie</a>
+    <a href="/update">Update content</a>
     <% @movie.parse.each do |line| %>
     <div>
     
-    <p><% line[:id] %></p>
-    <p><%= line[:title]%></p>
-    <p><%= line[:tags].join(', ') %></p>
-    <p><%= line[:dates][0].strftime "%Y-%m-%d %H:%M:%S"%></p>
-    <p><%= line[:description] %></p>
+    <p><%= line['id'] %></p>
+    <p><%= line['title']%></p>
+    <p><%= line['tags'].join(', ') %></p>
+    <p><%= line['dates']%></p>
+    <p><%= line['description'] %></p>
     <br>
     
     <% end %>

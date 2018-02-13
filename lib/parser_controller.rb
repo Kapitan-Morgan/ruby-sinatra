@@ -1,4 +1,4 @@
-def parser
+def update_parser
      url = 'https://www.cubecinema.com/programme'
 html = open(url)
 
@@ -24,5 +24,10 @@ doc.css('.showing').each do |showing|
   )
 end
 
-@movie.parse = showings
+File.write('storage/reviews.json', JSON.pretty_generate(showings))
+end
+
+def get_parser
+  file = File.read('storage/reviews.json')
+  @movie.parse = JSON.parse(file)
 end

@@ -8,6 +8,12 @@ require 'json'
 get('/') do
   @movie = Movie.new
   @movie.title = 'Jaws'
-  parser
+  get_parser
   erb :index
+end
+
+get('/update') do
+  update_parser
+  'successfully updated'
+  redirect('/')
 end
