@@ -1,113 +1,18 @@
 [
   {
-    "id": 9747,
-    "title": "Three Billboards Outside Ebbing, Missouri",
+    "id": 9992,
+    "title": "Cube Drawing Group - making plans",
     "tags": [
-      "film",
-      "dcp"
+      "meeting"
     ],
     "dates": [
-      "2018-02-13T20:00:00+00:00",
-      "2018-02-14T20:00:00+00:00"
+      "2018-02-22T11:00:00+00:00"
     ],
-    "description": "Martin McDonagh’s (In Bruges) third feature is a characteristically pitch-black comedic drama featuring a blistering central"
-  },
-  {
-    "id": 9888,
-    "title": "Three Billboards Outside Ebbing, Missouri",
-    "tags": [
-      "film",
-      "babycinema",
-      "dcp"
-    ],
-    "dates": [
-      "2018-02-14T11:00:00+00:00"
-    ],
-    "description": "The Cube warmly welcomes everyone to its morning cinema slot that is suitable for parents/carers and"
-  },
-  {
-    "id": 9980,
-    "title": "Orchestra Cube Rehearsal",
-    "tags": [
-      "cubeorchestra"
-    ],
-    "dates": [
-      "2018-02-14T17:30:00+00:00"
-    ],
-    "description": "A regular free rehearsal, we are an improvisational group based at The Cube. Musicians and non-musicians"
-  },
-  {
-    "id": 9708,
-    "title": "Dystopian Future Movies/Soden/Age Decay",
-    "tags": [
-      "music"
-    ],
-    "dates": [
-      "2018-02-16T20:00:00+00:00"
-    ],
-    "description": "Dystopian Future Movies play heavy, experimental post rock. This Nottingham band have played to a wowed"
-  },
-  {
-    "id": 9886,
-    "title": "The Myrrors with Ouzo Bazooka",
-    "tags": [
-      "music"
-    ],
-    "dates": [
-      "2018-02-17T20:00:00+00:00"
-    ],
-    "description": "Arizona 4 piece The Myrrors play a blend of desert rock and pysch folk. Minimalist influences"
-  },
-  {
-    "id": 9862,
-    "title": "Sunday Soul Lounge Dayer",
-    "tags": [
-      "music"
-    ],
-    "dates": [
-      "2018-02-18T13:00:00+00:00"
-    ],
-    "description": "This event after a will be held in our lounge and bar area. If you missed"
-  },
-  {
-    "id": 9940,
-    "title": "The Nothing Factory",
-    "tags": [
-      "film",
-      "dcp"
-    ],
-    "dates": [
-      "2018-02-18T18:30:00+00:00"
-    ],
-    "description": "One night, a group of workers realizes that their administration has organized the stealing of machines"
-  },
-  {
-    "id": 9828,
-    "title": "Sarah Pucill: Confessions to the Mirror / Phantom Rhapsody",
-    "tags": [
-      "film",
-      "16mm"
-    ],
-    "dates": [
-      "2018-02-20T20:00:00+00:00"
-    ],
-    "description": "Sarah Pucill screens Phantom Rhapsody (2010) and her latest, Confessions to the Mirror (2016) which continues"
-  },
-  {
-    "id": 9848,
-    "title": "women in horror 2018",
-    "tags": [
-      "film",
-      "dvd"
-    ],
-    "dates": [
-      "2018-02-21T20:00:00+00:00"
-    ],
-    "description": "Join us once again to celebrate Women in Horror month 2018 with a selection of terrifying"
+    "description": "[more]"
   },
   {
     "id": 9772,
-    "title": "THE GODS & MONSTERS SHOW, by Panvani108",
+    "title": "The Gods & Monsters Show, by Panvani108",
     "tags": [
       "music",
       "performance"
@@ -167,7 +72,19 @@
     "dates": [
       "2018-02-28T11:00:00+00:00"
     ],
-    "description": "[more]"
+    "description": "The Cube warmly welcomes everyone to its morning cinema slot that is suitable for parents/carers and"
+  },
+  {
+    "id": 9999,
+    "title": "Orchestra Cube Rehearsal",
+    "tags": [
+      "music",
+      "cubeorchestra"
+    ],
+    "dates": [
+      "2018-02-28T17:30:00+00:00"
+    ],
+    "description": "A regular free rehearsal, we are an improvisational group based at The Cube. Musicians and non-musicians"
   },
   {
     "id": 9941,
@@ -261,7 +178,8 @@
     "id": 9967,
     "title": "Improv's Greatest Hits",
     "tags": [
-      "music"
+      "music",
+      "cubeorchestra"
     ],
     "dates": [
       "2018-03-10T20:00:00+00:00"
@@ -440,6 +358,33 @@
     "description": "Crazed Russian fairytale meets punk rock. Ivan is forced to marry a frog. Baba Yaga meets"
   },
   {
+    "id": 9782,
+    "title": "Sweet Country",
+    "tags": [
+      "film",
+      "dcp"
+    ],
+    "dates": [
+      "2018-04-01T17:30:00+00:00",
+      "2018-04-02T17:30:00+00:00",
+      "2018-04-03T20:15:00+00:00"
+    ],
+    "description": "Warwick Thornton’s ravishing, agonising western is inspired by true events and set in Australia’s Northern Territory"
+  },
+  {
+    "id": 9996,
+    "title": "Have a Nice Day",
+    "tags": [
+      "film",
+      "dcp"
+    ],
+    "dates": [
+      "2018-04-02T20:00:00+00:00",
+      "2018-04-03T18:20:00+00:00"
+    ],
+    "description": "A hard rain is about to fall on a small town in Southern China. In a"
+  },
+  {
     "id": 9910,
     "title": "Penny Slinger: Out of the Shadows",
     "tags": [
@@ -451,6 +396,60 @@
       "2018-04-05T20:00:00+00:00"
     ],
     "description": "The incredible, untold story of this British artist. Coming-of-age against a backdrop of post-war austerity and"
+  },
+  {
+    "id": 9841,
+    "title": "The Square",
+    "tags": [
+      "film",
+      "dcp"
+    ],
+    "dates": [
+      "2018-04-08T18:00:00+00:00",
+      "2018-04-09T20:00:00+00:00",
+      "2018-04-10T20:00:00+00:00"
+    ],
+    "description": "Christian (Claes Bang) is a divorced but devoted father of two, and the respected curator of"
+  },
+  {
+    "id": 9982,
+    "title": "Baby cinema The Square",
+    "tags": [
+      "film",
+      "dcp"
+    ],
+    "dates": [
+      "2018-04-11T11:00:00+00:00"
+    ],
+    "description": "The Cube warmly welcomes everyone to its morning cinema slot that is suitable for parents/carers and"
+  },
+  {
+    "id": 9842,
+    "title": "You Were Never Really Here",
+    "tags": [
+      "film",
+      "dcp"
+    ],
+    "dates": [
+      "2018-04-15T18:00:00+00:00",
+      "2018-04-16T20:00:00+00:00",
+      "2018-04-17T20:00:00+00:00"
+    ],
+    "description": "A missing teenage girl. A brutal and tormented enforcer on a rescue mission. Corrupt power and"
+  },
+  {
+    "id": 9844,
+    "title": "120 BPM",
+    "tags": [
+      "film",
+      "dcp"
+    ],
+    "dates": [
+      "2018-04-29T18:00:00+00:00",
+      "2018-04-30T20:00:00+00:00",
+      "2018-05-01T20:00:00+00:00"
+    ],
+    "description": "Set in Paris in the early 1990s, 120 BPM follows a group of young activists as"
   },
   {
     "id": 9882,
@@ -466,7 +465,7 @@
   },
   {
     "id": 9928,
-    "title": "Nick Harper presents A Wiltshire Tale",
+    "title": "Nick Harper preforms A Wiltshire Tale",
     "tags": [
       "music"
     ],

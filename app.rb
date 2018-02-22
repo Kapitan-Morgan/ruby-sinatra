@@ -14,6 +14,5 @@ end
 
 get('/update') do
   update_parser
-  'successfully updated'
   redirect('/')
 end
